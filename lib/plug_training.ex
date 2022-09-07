@@ -1,0 +1,2 @@
+defmodule PlugTraining do
+end
